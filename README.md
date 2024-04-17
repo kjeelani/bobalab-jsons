@@ -25,5 +25,5 @@ async function loadJSON(url) {
   }
 }
 
-loadJSON("https://kjeelani.github.io/bobalab-jsons/<X>.json") // Where <X> is the name of the json file you've dropped
+await loadJSON("https://kjeelani.github.io/bobalab-jsons/<X>.json") // Where <X> is the name of the json file you've dropped
 ```
