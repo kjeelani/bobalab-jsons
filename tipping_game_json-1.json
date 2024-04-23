@@ -9,11 +9,11 @@
     },
 
     {
-        "loops": 2, 
+        "loops": 3, 
         "tips": ["10%", "15%", "20%"], 
-        "peopleInLine" : [[0, 2], [3, 0]], 
-        "itemQuantity" : [[1, 4, 2], [2, 2, 4]], 
-        "totalPrice":[14.53, 15.52], 
+        "peopleInLine" : [[0, 2], [3, 0], [1,2]], 
+        "itemQuantity" : [[1, 4, 2], [2, 2, 4], [5,1,2]], 
+        "totalPrice":[14.53, 15.52, 14.50], 
         "noneTipButton":true
     }
 ]
