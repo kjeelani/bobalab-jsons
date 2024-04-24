@@ -1,5 +1,6 @@
 {
    "numDays": 1,
+   "hoursPerDay": 8,
    "numParks": 4,
    "numTrucks": [
       40
