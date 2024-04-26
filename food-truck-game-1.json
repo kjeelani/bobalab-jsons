@@ -1,344 +1,362 @@
 {
-    "numDays": 4,
-    "hoursPerDay": 5,
+    "numDays": 5,
+    "hoursPerDay": 4,
     "numParks": 2,
     "numTrucks": [
+        41,
+        41,
+        46,
         40,
-        52,
-        31,
-        55
+        45
     ],
     "numPeople": [
-        200,
-        156,
-        270,
-        299
+        220,
+        204,
+        157,
+        223,
+        297
     ],
     "minRevenuePerCustomer": 10,
     "maxRevenuePerCustomer": 10,
     "days": {
         "0": {
             "initTrucks": [
-                20,
+                21,
                 20
             ],
-            "0": {
-                "people": [
-                    112,
-                    111
-                ],
-                "departingTrucks": [
-                    3,
-                    3
-                ],
-                "arrivingTrucks": [
-                    3,
-                    3
-                ],
-                "advice": "No Advice"
-            },
-            "1": {
-                "people": [
-                    91,
-                    90
-                ],
-                "departingTrucks": [
-                    2,
-                    2
-                ],
-                "arrivingTrucks": [
-                    2,
-                    2
-                ],
-                "advice": "No Advice"
-            },
-            "2": {
-                "people": [
-                    102,
-                    102
-                ],
-                "departingTrucks": [
-                    2,
-                    2
-                ],
-                "arrivingTrucks": [
-                    2,
-                    2
-                ],
-                "advice": "No Advice"
-            },
-            "3": {
-                "people": [
-                    90,
-                    91
-                ],
-                "departingTrucks": [
-                    3,
-                    2
-                ],
-                "arrivingTrucks": [
-                    2,
-                    3
-                ],
-                "advice": "No Advice"
-            },
-            "4": {
-                "people": [
-                    89,
-                    88
-                ],
-                "departingTrucks": [
-                    2,
-                    1
-                ],
-                "arrivingTrucks": [
-                    2,
-                    1
-                ],
-                "advice": "No Advice"
+            "hours": {
+                "0": {
+                    "people": [
+                        114,
+                        114
+                    ],
+                    "departingTrucks": [
+                        2,
+                        2
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        2
+                    ],
+                    "advice": "No Advice"
+                },
+                "1": {
+                    "people": [
+                        123,
+                        122
+                    ],
+                    "departingTrucks": [
+                        3,
+                        3
+                    ],
+                    "arrivingTrucks": [
+                        3,
+                        3
+                    ],
+                    "advice": "No Advice"
+                },
+                "2": {
+                    "people": [
+                        113,
+                        114
+                    ],
+                    "departingTrucks": [
+                        3,
+                        3
+                    ],
+                    "arrivingTrucks": [
+                        3,
+                        3
+                    ],
+                    "advice": "No Advice"
+                },
+                "3": {
+                    "people": [
+                        115,
+                        115
+                    ],
+                    "departingTrucks": [
+                        3,
+                        3
+                    ],
+                    "arrivingTrucks": [
+                        3,
+                        3
+                    ],
+                    "advice": "No Advice"
+                }
             }
         },
         "1": {
             "initTrucks": [
-                26,
-                26
+                21,
+                20
             ],
-            "0": {
-                "people": [
-                    78,
-                    78
-                ],
-                "departingTrucks": [
-                    3,
-                    2
-                ],
-                "arrivingTrucks": [
-                    2,
-                    3
-                ],
-                "advice": "No Advice"
-            },
-            "1": {
-                "people": [
-                    80,
-                    81
-                ],
-                "departingTrucks": [
-                    1,
-                    1
-                ],
-                "arrivingTrucks": [
-                    1,
-                    1
-                ],
-                "advice": "No Advice"
-            },
-            "2": {
-                "people": [
-                    80,
-                    81
-                ],
-                "departingTrucks": [
-                    2,
-                    1
-                ],
-                "arrivingTrucks": [
-                    2,
-                    1
-                ],
-                "advice": "No Advice"
-            },
-            "3": {
-                "people": [
-                    75,
-                    74
-                ],
-                "departingTrucks": [
-                    2,
-                    2
-                ],
-                "arrivingTrucks": [
-                    2,
-                    2
-                ],
-                "advice": "No Advice"
-            },
-            "4": {
-                "people": [
-                    78,
-                    78
-                ],
-                "departingTrucks": [
-                    2,
-                    2
-                ],
-                "arrivingTrucks": [
-                    2,
-                    2
-                ],
-                "advice": "No Advice"
+            "hours": {
+                "0": {
+                    "people": [
+                        113,
+                        113
+                    ],
+                    "departingTrucks": [
+                        2,
+                        1
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        1
+                    ],
+                    "advice": "No Advice"
+                },
+                "1": {
+                    "people": [
+                        111,
+                        112
+                    ],
+                    "departingTrucks": [
+                        3,
+                        3
+                    ],
+                    "arrivingTrucks": [
+                        3,
+                        3
+                    ],
+                    "advice": "No Advice"
+                },
+                "2": {
+                    "people": [
+                        105,
+                        104
+                    ],
+                    "departingTrucks": [
+                        3,
+                        2
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        3
+                    ],
+                    "advice": "No Advice"
+                },
+                "3": {
+                    "people": [
+                        101,
+                        100
+                    ],
+                    "departingTrucks": [
+                        2,
+                        1
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        1
+                    ],
+                    "advice": "No Advice"
+                }
             }
         },
         "2": {
             "initTrucks": [
-                15,
-                16
+                23,
+                23
             ],
-            "0": {
-                "people": [
-                    137,
-                    138
-                ],
-                "departingTrucks": [
-                    2,
-                    1
-                ],
-                "arrivingTrucks": [
-                    2,
-                    1
-                ],
-                "advice": "No Advice"
-            },
-            "1": {
-                "people": [
-                    123,
-                    123
-                ],
-                "departingTrucks": [
-                    3,
-                    2
-                ],
-                "arrivingTrucks": [
-                    2,
-                    3
-                ],
-                "advice": "No Advice"
-            },
-            "2": {
-                "people": [
-                    144,
-                    143
-                ],
-                "departingTrucks": [
-                    2,
-                    3
-                ],
-                "arrivingTrucks": [
-                    3,
-                    2
-                ],
-                "advice": "No Advice"
-            },
-            "3": {
-                "people": [
-                    135,
-                    134
-                ],
-                "departingTrucks": [
-                    2,
-                    3
-                ],
-                "arrivingTrucks": [
-                    3,
-                    2
-                ],
-                "advice": "No Advice"
-            },
-            "4": {
-                "people": [
-                    147,
-                    147
-                ],
-                "departingTrucks": [
-                    1,
-                    2
-                ],
-                "arrivingTrucks": [
-                    2,
-                    1
-                ],
-                "advice": "No Advice"
+            "hours": {
+                "0": {
+                    "people": [
+                        87,
+                        88
+                    ],
+                    "departingTrucks": [
+                        2,
+                        2
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        2
+                    ],
+                    "advice": "No Advice"
+                },
+                "1": {
+                    "people": [
+                        69,
+                        70
+                    ],
+                    "departingTrucks": [
+                        2,
+                        2
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        2
+                    ],
+                    "advice": "No Advice"
+                },
+                "2": {
+                    "people": [
+                        79,
+                        78
+                    ],
+                    "departingTrucks": [
+                        3,
+                        3
+                    ],
+                    "arrivingTrucks": [
+                        3,
+                        3
+                    ],
+                    "advice": "No Advice"
+                },
+                "3": {
+                    "people": [
+                        83,
+                        84
+                    ],
+                    "departingTrucks": [
+                        2,
+                        2
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        2
+                    ],
+                    "advice": "No Advice"
+                }
             }
         },
         "3": {
             "initTrucks": [
-                27,
-                28
+                20,
+                20
             ],
-            "0": {
-                "people": [
-                    156,
-                    156
-                ],
-                "departingTrucks": [
-                    3,
-                    3
-                ],
-                "arrivingTrucks": [
-                    3,
-                    3
-                ],
-                "advice": "No Advice"
-            },
-            "1": {
-                "people": [
-                    139,
-                    140
-                ],
-                "departingTrucks": [
-                    1,
-                    2
-                ],
-                "arrivingTrucks": [
-                    1,
-                    2
-                ],
-                "advice": "No Advice"
-            },
-            "2": {
-                "people": [
-                    162,
-                    162
-                ],
-                "departingTrucks": [
-                    3,
-                    2
-                ],
-                "arrivingTrucks": [
-                    3,
-                    2
-                ],
-                "advice": "No Advice"
-            },
-            "3": {
-                "people": [
-                    146,
-                    146
-                ],
-                "departingTrucks": [
-                    1,
-                    1
-                ],
-                "arrivingTrucks": [
-                    1,
-                    1
-                ],
-                "advice": "No Advice"
-            },
-            "4": {
-                "people": [
-                    159,
-                    159
-                ],
-                "departingTrucks": [
-                    3,
-                    3
-                ],
-                "arrivingTrucks": [
-                    3,
-                    3
-                ],
-                "advice": "No Advice"
+            "hours": {
+                "0": {
+                    "people": [
+                        112,
+                        112
+                    ],
+                    "departingTrucks": [
+                        3,
+                        3
+                    ],
+                    "arrivingTrucks": [
+                        3,
+                        3
+                    ],
+                    "advice": "No Advice"
+                },
+                "1": {
+                    "people": [
+                        102,
+                        102
+                    ],
+                    "departingTrucks": [
+                        2,
+                        1
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        1
+                    ],
+                    "advice": "No Advice"
+                },
+                "2": {
+                    "people": [
+                        112,
+                        113
+                    ],
+                    "departingTrucks": [
+                        3,
+                        3
+                    ],
+                    "arrivingTrucks": [
+                        3,
+                        3
+                    ],
+                    "advice": "No Advice"
+                },
+                "3": {
+                    "people": [
+                        121,
+                        121
+                    ],
+                    "departingTrucks": [
+                        2,
+                        2
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        2
+                    ],
+                    "advice": "No Advice"
+                }
+            }
+        },
+        "4": {
+            "initTrucks": [
+                23,
+                22
+            ],
+            "hours": {
+                "0": {
+                    "people": [
+                        146,
+                        146
+                    ],
+                    "departingTrucks": [
+                        3,
+                        3
+                    ],
+                    "arrivingTrucks": [
+                        3,
+                        3
+                    ],
+                    "advice": "No Advice"
+                },
+                "1": {
+                    "people": [
+                        153,
+                        154
+                    ],
+                    "departingTrucks": [
+                        2,
+                        2
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        2
+                    ],
+                    "advice": "No Advice"
+                },
+                "2": {
+                    "people": [
+                        150,
+                        149
+                    ],
+                    "departingTrucks": [
+                        2,
+                        2
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        2
+                    ],
+                    "advice": "No Advice"
+                },
+                "3": {
+                    "people": [
+                        151,
+                        151
+                    ],
+                    "departingTrucks": [
+                        2,
+                        2
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        2
+                    ],
+                    "advice": "No Advice"
+                }
             }
         }
     }
