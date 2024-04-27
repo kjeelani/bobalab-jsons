@@ -1,250 +1,175 @@
 {
-    "numDays": 6,
-    "hoursPerDay": 5,
+    "numDays": 5,
+    "hoursPerDay": 6,
     "numParks": 4,
     "numTrucks": [
-        38,
-        30,
-        53,
-        46,
-        47,
-        32
+        39,
+        37,
+        55,
+        41,
+        40
     ],
     "numPeople": [
-        210,
-        225,
-        263,
-        221,
-        181,
-        171
+        230,
+        229,
+        226,
+        152,
+        150
     ],
     "minRevenuePerCustomer": 10,
     "maxRevenuePerCustomer": 10,
     "days": {
-        "0": {
-            "initTrucks": [
-                10,
-                9,
-                9,
-                10
-            ],
-            "hours": {
-                "0": {
-                    "people": [
-                        55,
-                        55,
-                        55,
-                        55
-                    ],
-                    "departingTrucks": [
-                        1,
-                        1,
-                        2,
-                        2
-                    ],
-                    "arrivingTrucks": [
-                        1,
-                        2,
-                        1,
-                        2
-                    ],
-                    "advice": "No Advice"
-                },
-                "1": {
-                    "people": [
-                        50,
-                        50,
-                        51,
-                        50
-                    ],
-                    "departingTrucks": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "arrivingTrucks": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "advice": "No Advice"
-                },
-                "2": {
-                    "people": [
-                        57,
-                        57,
-                        57,
-                        57
-                    ],
-                    "departingTrucks": [
-                        0,
-                        1,
-                        0,
-                        1
-                    ],
-                    "arrivingTrucks": [
-                        0,
-                        0,
-                        1,
-                        1
-                    ],
-                    "advice": "No Advice"
-                },
-                "3": {
-                    "people": [
-                        53,
-                        53,
-                        53,
-                        54
-                    ],
-                    "departingTrucks": [
-                        2,
-                        1,
-                        1,
-                        1
-                    ],
-                    "arrivingTrucks": [
-                        1,
-                        1,
-                        2,
-                        1
-                    ],
-                    "advice": "No Advice"
-                },
-                "4": {
-                    "people": [
-                        56,
-                        55,
-                        56,
-                        56
-                    ],
-                    "departingTrucks": [
-                        1,
-                        1,
-                        0,
-                        0
-                    ],
-                    "arrivingTrucks": [
-                        0,
-                        1,
-                        1,
-                        0
-                    ],
-                    "advice": "No Advice"
-                }
-            }
-        },
         "1": {
             "initTrucks": [
-                7,
-                8,
-                7,
-                8
+                9,
+                10,
+                9,
+                11
             ],
             "hours": {
                 "0": {
                     "people": [
-                        61,
-                        61,
-                        61,
-                        62
+                        73,
+                        48,
+                        52,
+                        72
                     ],
                     "departingTrucks": [
+                        3,
                         1,
-                        2,
-                        2,
-                        1
+                        0,
+                        2
                     ],
                     "arrivingTrucks": [
                         1,
                         2,
-                        1,
-                        2
+                        2,
+                        1
                     ],
                     "advice": "No Advice"
                 },
                 "1": {
                     "people": [
-                        50,
-                        50,
-                        50,
-                        50
+                        52,
+                        61,
+                        70,
+                        65
                     ],
                     "departingTrucks": [
-                        1,
                         0,
                         0,
-                        1
+                        3,
+                        0
                     ],
                     "arrivingTrucks": [
-                        1,
                         0,
-                        1,
-                        0
+                        2,
+                        0,
+                        1
                     ],
                     "advice": "No Advice"
                 },
                 "2": {
                     "people": [
                         60,
-                        60,
-                        60,
-                        60
+                        48,
+                        56,
+                        49
                     ],
                     "departingTrucks": [
+                        2,
+                        2,
                         0,
-                        1,
-                        0,
-                        1
+                        0
                     ],
                     "arrivingTrucks": [
                         1,
                         1,
                         0,
-                        0
+                        2
                     ],
                     "advice": "No Advice"
                 },
                 "3": {
                     "people": [
-                        52,
-                        53,
-                        53,
-                        53
+                        64,
+                        38,
+                        59,
+                        69
                     ],
                     "departingTrucks": [
-                        2,
-                        2,
                         1,
+                        2,
+                        2,
                         1
                     ],
                     "arrivingTrucks": [
                         1,
-                        2,
-                        2,
+                        3,
+                        1,
                         1
                     ],
                     "advice": "No Advice"
                 },
                 "4": {
                     "people": [
-                        59,
-                        58,
-                        58,
-                        58
+                        56,
+                        51,
+                        51,
+                        64
                     ],
                     "departingTrucks": [
                         1,
-                        0,
-                        1,
-                        1
+                        2,
+                        2,
+                        0
                     ],
                     "arrivingTrucks": [
                         1,
                         1,
+                        2,
+                        1
+                    ],
+                    "advice": "No Advice"
+                },
+                "5": {
+                    "people": [
+                        59,
+                        59,
+                        60,
+                        70
+                    ],
+                    "departingTrucks": [
                         1,
+                        1,
+                        0,
+                        0
+                    ],
+                    "arrivingTrucks": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ],
+                    "advice": "No Advice"
+                },
+                "6": {
+                    "people": [
+                        68,
+                        67,
+                        66,
+                        42
+                    ],
+                    "departingTrucks": [
+                        1,
+                        2,
+                        0,
+                        2
+                    ],
+                    "arrivingTrucks": [
+                        1,
+                        1,
+                        3,
                         0
                     ],
                     "advice": "No Advice"
@@ -253,70 +178,70 @@
         },
         "2": {
             "initTrucks": [
-                13,
-                14,
-                13,
-                13
+                6,
+                11,
+                9,
+                11
             ],
             "hours": {
                 "0": {
                     "people": [
-                        71,
-                        70,
-                        70,
-                        71
+                        69,
+                        63,
+                        48,
+                        66
                     ],
                     "departingTrucks": [
-                        2,
-                        2,
                         1,
+                        0,
+                        2,
                         1
                     ],
                     "arrivingTrucks": [
                         2,
                         1,
                         1,
-                        2
+                        0
                     ],
                     "advice": "No Advice"
                 },
                 "1": {
                     "people": [
-                        64,
-                        64,
-                        64,
-                        64
+                        58,
+                        58,
+                        67,
+                        69
                     ],
                     "departingTrucks": [
-                        1,
                         2,
-                        1,
+                        0,
+                        2,
                         1
                     ],
                     "arrivingTrucks": [
+                        0,
+                        1,
                         2,
-                        1,
-                        1,
-                        1
+                        2
                     ],
                     "advice": "No Advice"
                 },
                 "2": {
                     "people": [
-                        63,
                         62,
                         63,
-                        63
+                        60,
+                        45
                     ],
                     "departingTrucks": [
                         1,
-                        1,
-                        1,
-                        1
+                        0,
+                        2,
+                        2
                     ],
                     "arrivingTrucks": [
                         1,
-                        1,
+                        2,
                         1,
                         1
                     ],
@@ -324,31 +249,10 @@
                 },
                 "3": {
                     "people": [
-                        66,
-                        66,
-                        66,
-                        66
-                    ],
-                    "departingTrucks": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "arrivingTrucks": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "advice": "No Advice"
-                },
-                "4": {
-                    "people": [
-                        70,
-                        70,
-                        70,
-                        70
+                        60,
+                        73,
+                        65,
+                        51
                     ],
                     "departingTrucks": [
                         2,
@@ -357,10 +261,73 @@
                         1
                     ],
                     "arrivingTrucks": [
+                        0,
+                        0,
                         1,
+                        4
+                    ],
+                    "advice": "No Advice"
+                },
+                "4": {
+                    "people": [
+                        65,
+                        67,
+                        58,
+                        59
+                    ],
+                    "departingTrucks": [
+                        0,
                         1,
-                        1,
+                        0,
                         2
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        0,
+                        0,
+                        1
+                    ],
+                    "advice": "No Advice"
+                },
+                "5": {
+                    "people": [
+                        55,
+                        54,
+                        56,
+                        46
+                    ],
+                    "departingTrucks": [
+                        0,
+                        1,
+                        3,
+                        1
+                    ],
+                    "arrivingTrucks": [
+                        1,
+                        0,
+                        0,
+                        4
+                    ],
+                    "advice": "No Advice"
+                },
+                "6": {
+                    "people": [
+                        61,
+                        70,
+                        60,
+                        61
+                    ],
+                    "departingTrucks": [
+                        1,
+                        1,
+                        2,
+                        1
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        3,
+                        0,
+                        0
                     ],
                     "advice": "No Advice"
                 }
@@ -368,27 +335,27 @@
         },
         "3": {
             "initTrucks": [
-                11,
-                11,
-                12,
-                12
+                17,
+                13,
+                15,
+                10
             ],
             "hours": {
                 "0": {
                     "people": [
-                        55,
-                        55,
-                        55,
-                        55
+                        48,
+                        65,
+                        60,
+                        43
                     ],
                     "departingTrucks": [
                         0,
                         1,
-                        0,
-                        1
+                        2,
+                        0
                     ],
                     "arrivingTrucks": [
-                        1,
+                        2,
                         1,
                         0,
                         0
@@ -397,41 +364,41 @@
                 },
                 "1": {
                     "people": [
-                        51,
-                        51,
-                        51,
-                        51
+                        55,
+                        55,
+                        47,
+                        61
                     ],
                     "departingTrucks": [
+                        0,
                         1,
                         2,
-                        2,
-                        1
+                        2
                     ],
                     "arrivingTrucks": [
-                        2,
                         1,
                         2,
-                        1
+                        0,
+                        2
                     ],
                     "advice": "No Advice"
                 },
                 "2": {
                     "people": [
-                        56,
-                        56,
                         57,
-                        56
+                        53,
+                        56,
+                        60
                     ],
                     "departingTrucks": [
                         1,
                         1,
-                        1,
+                        2,
                         1
                     ],
                     "arrivingTrucks": [
-                        1,
-                        1,
+                        3,
+                        0,
                         1,
                         1
                     ],
@@ -439,43 +406,85 @@
                 },
                 "3": {
                     "people": [
-                        61,
-                        61,
-                        62,
-                        61
+                        53,
+                        55,
+                        54,
+                        64
                     ],
                     "departingTrucks": [
-                        1,
-                        1,
-                        1,
-                        1
+                        0,
+                        0,
+                        0,
+                        3
                     ],
                     "arrivingTrucks": [
                         1,
                         1,
-                        1,
+                        0,
                         1
                     ],
                     "advice": "No Advice"
                 },
                 "4": {
                     "people": [
-                        53,
-                        53,
                         52,
-                        53
+                        68,
+                        60,
+                        47
                     ],
                     "departingTrucks": [
-                        1,
-                        1,
+                        2,
+                        2,
                         1,
                         1
                     ],
                     "arrivingTrucks": [
+                        2,
+                        0,
+                        4,
+                        0
+                    ],
+                    "advice": "No Advice"
+                },
+                "5": {
+                    "people": [
+                        65,
+                        53,
+                        68,
+                        62
+                    ],
+                    "departingTrucks": [
                         1,
+                        0,
+                        0,
+                        1
+                    ],
+                    "arrivingTrucks": [
                         1,
+                        0,
+                        0,
+                        1
+                    ],
+                    "advice": "No Advice"
+                },
+                "6": {
+                    "people": [
+                        65,
+                        44,
+                        65,
+                        53
+                    ],
+                    "departingTrucks": [
+                        4,
+                        0,
                         1,
                         1
+                    ],
+                    "arrivingTrucks": [
+                        0,
+                        3,
+                        1,
+                        2
                     ],
                     "advice": "No Advice"
                 }
@@ -483,112 +492,154 @@
         },
         "4": {
             "initTrucks": [
-                12,
-                12,
+                5,
                 11,
-                12
+                15,
+                10
             ],
             "hours": {
                 "0": {
                     "people": [
-                        50,
-                        49,
-                        50,
-                        50
+                        39,
+                        32,
+                        44,
+                        27
                     ],
                     "departingTrucks": [
                         2,
                         1,
-                        1,
+                        2,
                         1
                     ],
                     "arrivingTrucks": [
-                        1,
-                        1,
+                        0,
                         2,
-                        1
+                        2,
+                        2
                     ],
                     "advice": "No Advice"
                 },
                 "1": {
                     "people": [
-                        44,
-                        44,
-                        44,
-                        44
+                        42,
+                        40,
+                        48,
+                        39
                     ],
                     "departingTrucks": [
+                        1,
+                        0,
                         2,
+                        0
+                    ],
+                    "arrivingTrucks": [
+                        0,
                         1,
                         1,
                         1
-                    ],
-                    "arrivingTrucks": [
-                        1,
-                        1,
-                        1,
-                        2
                     ],
                     "advice": "No Advice"
                 },
                 "2": {
                     "people": [
-                        48,
-                        48,
-                        49,
-                        49
+                        50,
+                        35,
+                        29,
+                        32
                     ],
                     "departingTrucks": [
                         1,
-                        2,
-                        2,
-                        1
+                        0,
+                        1,
+                        2
                     ],
                     "arrivingTrucks": [
-                        1,
-                        2,
-                        2,
+                        0,
+                        0,
+                        3,
                         1
                     ],
                     "advice": "No Advice"
                 },
                 "3": {
                     "people": [
-                        41,
-                        41,
-                        40,
-                        41
+                        32,
+                        38,
+                        38,
+                        32
                     ],
                     "departingTrucks": [
-                        1,
-                        1,
+                        0,
+                        0,
                         1,
                         1
                     ],
                     "arrivingTrucks": [
                         1,
-                        1,
-                        1,
+                        0,
+                        0,
                         1
                     ],
                     "advice": "No Advice"
                 },
                 "4": {
                     "people": [
+                        35,
                         44,
+                        42,
+                        49
+                    ],
+                    "departingTrucks": [
+                        3,
+                        0,
+                        0,
+                        1
+                    ],
+                    "arrivingTrucks": [
+                        0,
+                        2,
+                        1,
+                        1
+                    ],
+                    "advice": "No Advice"
+                },
+                "5": {
+                    "people": [
+                        35,
+                        35,
                         44,
-                        43,
-                        43
+                        36
                     ],
                     "departingTrucks": [
                         0,
                         1,
-                        1,
-                        1
+                        0,
+                        3
                     ],
                     "arrivingTrucks": [
                         1,
                         0,
+                        1,
+                        2
+                    ],
+                    "advice": "No Advice"
+                },
+                "6": {
+                    "people": [
+                        33,
+                        28,
+                        34,
+                        33
+                    ],
+                    "departingTrucks": [
+                        1,
+                        1,
+                        2,
+                        0
+                    ],
+                    "arrivingTrucks": [
+                        1,
+                        1,
                         1,
                         1
                     ],
@@ -598,113 +649,155 @@
         },
         "5": {
             "initTrucks": [
-                8,
-                8,
-                8,
-                8
+                6,
+                9,
+                12,
+                13
             ],
             "hours": {
                 "0": {
                     "people": [
-                        43,
-                        43,
-                        43,
-                        44
+                        35,
+                        37,
+                        32,
+                        37
                     ],
                     "departingTrucks": [
-                        1,
+                        0,
                         1,
                         1,
                         2
                     ],
                     "arrivingTrucks": [
-                        1,
-                        1,
-                        2,
-                        1
+                        4,
+                        0,
+                        0,
+                        0
                     ],
                     "advice": "No Advice"
                 },
                 "1": {
                     "people": [
-                        41,
-                        40,
-                        40,
-                        40
+                        44,
+                        33,
+                        35,
+                        38
                     ],
                     "departingTrucks": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "arrivingTrucks": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "advice": "No Advice"
-                },
-                "2": {
-                    "people": [
-                        45,
-                        45,
-                        46,
-                        46
-                    ],
-                    "departingTrucks": [
+                        3,
                         0,
                         1,
-                        1,
-                        1
+                        0
                     ],
                     "arrivingTrucks": [
-                        0,
-                        1,
-                        1,
-                        1
-                    ],
-                    "advice": "No Advice"
-                },
-                "3": {
-                    "people": [
-                        48,
-                        48,
-                        49,
-                        48
-                    ],
-                    "departingTrucks": [
-                        0,
-                        1,
-                        1,
-                        1
-                    ],
-                    "arrivingTrucks": [
-                        1,
+                        2,
                         1,
                         1,
                         0
                     ],
                     "advice": "No Advice"
                 },
-                "4": {
+                "2": {
                     "people": [
-                        43,
-                        43,
-                        42,
+                        49,
+                        40,
+                        41,
                         43
                     ],
                     "departingTrucks": [
-                        2,
+                        0,
                         1,
+                        1,
+                        2
+                    ],
+                    "arrivingTrucks": [
+                        0,
+                        2,
+                        2,
+                        0
+                    ],
+                    "advice": "No Advice"
+                },
+                "3": {
+                    "people": [
+                        38,
+                        45,
+                        42,
+                        42
+                    ],
+                    "departingTrucks": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "arrivingTrucks": [
+                        0,
+                        1,
+                        3,
+                        0
+                    ],
+                    "advice": "No Advice"
+                },
+                "4": {
+                    "people": [
+                        37,
+                        31,
+                        29,
+                        28
+                    ],
+                    "departingTrucks": [
+                        0,
+                        0,
                         1,
                         1
                     ],
                     "arrivingTrucks": [
                         1,
                         1,
+                        0,
+                        0
+                    ],
+                    "advice": "No Advice"
+                },
+                "5": {
+                    "people": [
+                        40,
+                        40,
+                        28,
+                        28
+                    ],
+                    "departingTrucks": [
+                        0,
+                        3,
                         2,
+                        1
+                    ],
+                    "arrivingTrucks": [
+                        2,
+                        1,
+                        0,
+                        3
+                    ],
+                    "advice": "No Advice"
+                },
+                "6": {
+                    "people": [
+                        40,
+                        28,
+                        33,
+                        30
+                    ],
+                    "departingTrucks": [
+                        1,
+                        1,
+                        2,
+                        1
+                    ],
+                    "arrivingTrucks": [
+                        1,
+                        2,
+                        1,
                         1
                     ],
                     "advice": "No Advice"
